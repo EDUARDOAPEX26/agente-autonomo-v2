@@ -1,9 +1,11 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
+from llm import generate
 
 app = FastAPI()
 
-# modelo de entrada (melhor que dict)
+
+# modelo de entrada
 class Request(BaseModel):
     text: str
 
@@ -23,10 +25,7 @@ def ping():
 
 @app.post("/think")
 def think(req: Request):
-    texto = req.text
-
-    # resposta simples (por enquanto)
-    resposta = f"recebi: {texto}"
+    resposta = generate(req.text)
 
     return {
         "response": resposta
