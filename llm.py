@@ -5,7 +5,10 @@ def generate(prompt, mode="default", model="cloud"):
     LLM offline (stub) para manter o sistema funcionando sem APIs.
     """
 
-    texto = prompt.lower()
+    if not prompt:
+        return "Entrada vazia."
+
+    texto = prompt.lower().strip()
 
     # ------------------------
     # MODO SHORT
@@ -26,40 +29,64 @@ def generate(prompt, mode="default", model="cloud"):
 
 
 # ------------------------
-# RESPOSTAS
+# RESPOSTAS CURTAS
 # ------------------------
 
 def _resposta_curta(texto):
     if "python" in texto:
         return "Python é uma linguagem de programação."
 
-    if any(op in texto for op in ["+", "-", "*", "/"]):
-        try:
-            return str(eval(texto))
-        except:
-            return "Erro no cálculo."
+    if _tem_calculo(texto):
+        return _resolver_calculo(texto)
 
-    return "Resposta curta não disponível."
+    return "Não tenho resposta curta para isso."
 
+
+# ------------------------
+# RESPOSTAS LONGAS
+# ------------------------
 
 def _resposta_longa(texto):
     if "python" in texto:
         return (
-            "Python é uma linguagem de programação de alto nível, "
-            "conhecida por sua simplicidade e legibilidade. "
-            "Ela é amplamente usada em automação, desenvolvimento web, "
-            "ciência de dados e inteligência artificial."
+            "Python é uma linguagem de programação de alto nível, conhecida por sua "
+            "simplicidade e legibilidade. Ela é usada em diversas áreas como "
+            "automação, desenvolvimento web, análise de dados e inteligência artificial."
         )
 
     return (
         "Esta é uma resposta simulada em modo longo. "
-        "Em um ambiente completo, um modelo de linguagem geraria "
-        "uma explicação detalhada aqui."
+        "Em um ambiente completo, um modelo de linguagem geraria uma explicação detalhada."
     )
 
+
+# ------------------------
+# RESPOSTA PADRÃO
+# ------------------------
 
 def _resposta_padrao(texto):
     if "python" in texto:
         return "Python é uma linguagem usada para programar."
 
+    if "oi" in texto or "olá" in texto:
+        return "Olá! Como posso ajudar?"
+
+    if _tem_calculo(texto):
+        return _resolver_calculo(texto)
+
     return "Resposta simulada (LLM offline)."
+
+
+# ------------------------
+# UTILIDADES
+# ------------------------
+
+def _tem_calculo(texto):
+    return any(op in texto for op in ["+", "-", "*", "/"])
+
+
+def _resolver_calculo(texto):
+    try:
+        return str(eval(texto))
+    except:
+        return "Erro ao calcular."
