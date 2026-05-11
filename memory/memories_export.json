@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-05-11T18:56:04.104617+00:00",
+  "exported_at": "2026-05-11T19:07:11.631420+00:00",
   "total": 289,
   "memories": [
     {
@@ -16,17 +16,18 @@
       "confidence": 1.0,
       "relevance": 0.9,
       "historical_value": 0.0,
-      "recurrence": 127,
+      "recurrence": 131,
       "context_window_budget": null,
       "created_at": "2026-05-11T00:58:29.232778+00:00",
-      "updated_at": "2026-05-11T18:44:38.181874+00:00",
-      "last_used": "2026-05-11T18:44:38.181657+00:00",
+      "updated_at": "2026-05-11T19:01:13.783065+00:00",
+      "last_used": "2026-05-11T19:01:13.782883+00:00",
       "decay_applied_at": "2026-05-11T18:29:47.257355+00:00",
       "source": "user_explicit",
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ab4fac94-b4f0-400e-9379-b51ebe657add",
@@ -42,17 +43,18 @@
       "confidence": 1.0,
       "relevance": 0.9,
       "historical_value": 0.0,
-      "recurrence": 122,
+      "recurrence": 126,
       "context_window_budget": null,
       "created_at": "2026-05-11T02:03:08.943872+00:00",
-      "updated_at": "2026-05-11T18:44:38.181668+00:00",
-      "last_used": "2026-05-11T18:44:38.181657+00:00",
+      "updated_at": "2026-05-11T19:01:13.782892+00:00",
+      "last_used": "2026-05-11T19:01:13.782883+00:00",
       "decay_applied_at": "2026-05-11T18:29:47.256359+00:00",
       "source": "user_explicit",
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "962e4d4e-d8a4-4ac3-9d48-ce8a7d45e95f",
@@ -78,7 +80,8 @@
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b372e500-a4b3-4f12-b28c-0aebdaa3b456",
@@ -104,7 +107,8 @@
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "715b4791-05b0-4264-83e2-5125b2ea9dc6",
@@ -120,17 +124,18 @@
       "confidence": 0.95,
       "relevance": 0.9,
       "historical_value": 0.0,
-      "recurrence": 122,
+      "recurrence": 126,
       "context_window_budget": null,
       "created_at": "2026-05-11T02:04:49.585120+00:00",
-      "updated_at": "2026-05-11T18:44:38.181982+00:00",
-      "last_used": "2026-05-11T18:44:38.181657+00:00",
+      "updated_at": "2026-05-11T19:01:13.783170+00:00",
+      "last_used": "2026-05-11T19:01:13.782883+00:00",
       "decay_applied_at": "2026-05-11T18:29:47.257512+00:00",
       "source": "user_explicit",
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9401b043-8943-41b5-9a3a-3678c56a3247",
@@ -156,7 +161,8 @@
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "15707035-2627-40bc-9718-304accb380d2",
@@ -182,7 +188,8 @@
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "00a65736-6848-4805-ae79-c0de9be2bd9f",
@@ -208,7 +215,8 @@
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "98e763d9-068e-4596-9875-8c5d86d3dd39",
@@ -234,7 +242,8 @@
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f6c7e195-6c96-4e12-b7c4-6dc5c6577529",
@@ -260,7 +269,8 @@
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "38800ca0-a74e-4fa0-977c-73d73bca4968",
@@ -276,17 +286,18 @@
       "confidence": 0.9,
       "relevance": 0.9,
       "historical_value": 0.0,
-      "recurrence": 122,
+      "recurrence": 126,
       "context_window_budget": null,
       "created_at": "2026-05-11T02:03:56.402675+00:00",
-      "updated_at": "2026-05-11T18:44:38.182089+00:00",
-      "last_used": "2026-05-11T18:44:38.181657+00:00",
+      "updated_at": "2026-05-11T19:01:13.783274+00:00",
+      "last_used": "2026-05-11T19:01:13.782883+00:00",
       "decay_applied_at": "2026-05-11T18:29:47.257682+00:00",
       "source": "user_explicit",
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "fd3d0be3-8e6b-4eee-9be5-dc4097c50db4",
@@ -312,7 +323,8 @@
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ee8859cf-73c0-414c-aaa4-e650bea5c1b0",
@@ -328,17 +340,18 @@
       "confidence": 0.85,
       "relevance": 0.9,
       "historical_value": 0.0,
-      "recurrence": 122,
+      "recurrence": 126,
       "context_window_budget": null,
       "created_at": "2026-05-11T02:03:28.552747+00:00",
-      "updated_at": "2026-05-11T18:44:38.182194+00:00",
-      "last_used": "2026-05-11T18:44:38.181657+00:00",
+      "updated_at": "2026-05-11T19:01:13.783376+00:00",
+      "last_used": "2026-05-11T19:01:13.782883+00:00",
       "decay_applied_at": "2026-05-11T18:29:47.257822+00:00",
       "source": "user_explicit",
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "dd0970ed-7185-4f9e-8cf2-7509777e5ef8",
@@ -354,17 +367,18 @@
       "confidence": 0.85,
       "relevance": 0.9,
       "historical_value": 0.0,
-      "recurrence": 122,
+      "recurrence": 126,
       "context_window_budget": null,
       "created_at": "2026-05-11T02:04:36.022333+00:00",
-      "updated_at": "2026-05-11T18:44:38.182298+00:00",
-      "last_used": "2026-05-11T18:44:38.181657+00:00",
+      "updated_at": "2026-05-11T19:01:13.783477+00:00",
+      "last_used": "2026-05-11T19:01:13.782883+00:00",
       "decay_applied_at": "2026-05-11T18:29:47.257972+00:00",
       "source": "user_explicit",
       "created_reason": "fact_extraction",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ca2effeb-ac3e-4fa5-a57c-abbc2d9aeeb6",
@@ -390,7 +404,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": "f652637a-ef31-4ff7-af34-23f3228b83bc"
+      "tension_with": "f652637a-ef31-4ff7-af34-23f3228b83bc",
+      "epistemic_status": "unverified"
     },
     {
       "id": "d653ad89-4546-4f76-9186-251a12962213",
@@ -416,7 +431,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": "9691cc11-3865-472e-960f-0acf56290373"
+      "tension_with": "9691cc11-3865-472e-960f-0acf56290373",
+      "epistemic_status": "unverified"
     },
     {
       "id": "c5831682-2d78-40e7-a89e-8bb981f4d5b7",
@@ -442,7 +458,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": "d9d1ee72-0e44-484c-93ce-bb34ab652b9c"
+      "tension_with": "d9d1ee72-0e44-484c-93ce-bb34ab652b9c",
+      "epistemic_status": "unverified"
     },
     {
       "id": "d9d1ee72-0e44-484c-93ce-bb34ab652b9c",
@@ -468,7 +485,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": "c5831682-2d78-40e7-a89e-8bb981f4d5b7"
+      "tension_with": "c5831682-2d78-40e7-a89e-8bb981f4d5b7",
+      "epistemic_status": "unverified"
     },
     {
       "id": "9691cc11-3865-472e-960f-0acf56290373",
@@ -494,7 +512,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": "d653ad89-4546-4f76-9186-251a12962213"
+      "tension_with": "d653ad89-4546-4f76-9186-251a12962213",
+      "epistemic_status": "unverified"
     },
     {
       "id": "f652637a-ef31-4ff7-af34-23f3228b83bc",
@@ -520,7 +539,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": "ca2effeb-ac3e-4fa5-a57c-abbc2d9aeeb6"
+      "tension_with": "ca2effeb-ac3e-4fa5-a57c-abbc2d9aeeb6",
+      "epistemic_status": "unverified"
     },
     {
       "id": "1f9755c0-e5d0-4cbe-af08-d152e2755ae5",
@@ -546,7 +566,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": "d407613a-d028-44d4-98b1-66992af80ce9"
+      "tension_with": "d407613a-d028-44d4-98b1-66992af80ce9",
+      "epistemic_status": "unverified"
     },
     {
       "id": "3ae615a4-4edb-4e26-ba7f-6afd32328f02",
@@ -572,7 +593,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": "ef55ba11-1d58-4d8a-aa34-522bf4260672"
+      "tension_with": "ef55ba11-1d58-4d8a-aa34-522bf4260672",
+      "epistemic_status": "unverified"
     },
     {
       "id": "ef55ba11-1d58-4d8a-aa34-522bf4260672",
@@ -598,7 +620,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": "3ae615a4-4edb-4e26-ba7f-6afd32328f02"
+      "tension_with": "3ae615a4-4edb-4e26-ba7f-6afd32328f02",
+      "epistemic_status": "unverified"
     },
     {
       "id": "d407613a-d028-44d4-98b1-66992af80ce9",
@@ -624,7 +647,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": "1f9755c0-e5d0-4cbe-af08-d152e2755ae5"
+      "tension_with": "1f9755c0-e5d0-4cbe-af08-d152e2755ae5",
+      "epistemic_status": "unverified"
     },
     {
       "id": "4761dbd1-1027-486f-9f2e-49de205a3c0b",
@@ -640,17 +664,18 @@
       "confidence": 0.8,
       "relevance": 0.6,
       "historical_value": 0.0,
-      "recurrence": 13,
+      "recurrence": 17,
       "context_window_budget": null,
       "created_at": "2026-05-11T18:29:11.657565+00:00",
-      "updated_at": "2026-05-11T18:44:38.182403+00:00",
-      "last_used": "2026-05-11T18:44:38.181657+00:00",
+      "updated_at": "2026-05-11T19:01:13.783652+00:00",
+      "last_used": "2026-05-11T19:01:13.782883+00:00",
       "decay_applied_at": null,
       "source": "system",
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "850f8cc4-39d4-47f5-a446-1adbbdcd2834",
@@ -666,17 +691,18 @@
       "confidence": 0.8,
       "relevance": 0.6,
       "historical_value": 0.0,
-      "recurrence": 13,
+      "recurrence": 17,
       "context_window_budget": null,
       "created_at": "2026-05-11T18:29:49.104293+00:00",
-      "updated_at": "2026-05-11T18:44:38.182507+00:00",
-      "last_used": "2026-05-11T18:44:38.181657+00:00",
+      "updated_at": "2026-05-11T19:01:13.783754+00:00",
+      "last_used": "2026-05-11T19:01:13.782883+00:00",
       "decay_applied_at": null,
       "source": "system",
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2b291616-3368-41dd-8b9b-923f90ac8a74",
@@ -692,17 +718,18 @@
       "confidence": 0.8,
       "relevance": 0.6,
       "historical_value": 0.0,
-      "recurrence": 0,
+      "recurrence": 1,
       "context_window_budget": null,
       "created_at": "2026-05-11T18:30:38.140660+00:00",
-      "updated_at": "2026-05-11T18:30:38.144006+00:00",
-      "last_used": null,
+      "updated_at": "2026-05-11T19:00:42.149792+00:00",
+      "last_used": "2026-05-11T19:00:42.148718+00:00",
       "decay_applied_at": null,
       "source": "system",
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
-      "last_retrieval_reason": null,
-      "tension_with": null
+      "last_retrieval_reason": "context_injection:personalization",
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6c46bdc2-64e5-43c1-9794-8992a49a9a92",
@@ -718,17 +745,18 @@
       "confidence": 0.8,
       "relevance": 0.6,
       "historical_value": 0.0,
-      "recurrence": 0,
+      "recurrence": 1,
       "context_window_budget": null,
       "created_at": "2026-05-11T18:31:30.494048+00:00",
-      "updated_at": "2026-05-11T18:31:30.497547+00:00",
-      "last_used": null,
+      "updated_at": "2026-05-11T19:00:42.150025+00:00",
+      "last_used": "2026-05-11T19:00:42.148718+00:00",
       "decay_applied_at": null,
       "source": "system",
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
-      "last_retrieval_reason": null,
-      "tension_with": null
+      "last_retrieval_reason": "context_injection:personalization",
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "11250fb9-0523-4962-9acb-89b8d39febb4",
@@ -754,7 +782,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": "42221fcb-9651-434d-99fb-5c27f0e799d3"
+      "tension_with": "42221fcb-9651-434d-99fb-5c27f0e799d3",
+      "epistemic_status": "unverified"
     },
     {
       "id": "42221fcb-9651-434d-99fb-5c27f0e799d3",
@@ -780,7 +809,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": "11250fb9-0523-4962-9acb-89b8d39febb4"
+      "tension_with": "11250fb9-0523-4962-9acb-89b8d39febb4",
+      "epistemic_status": "unverified"
     },
     {
       "id": "f1fdfedd-f651-4836-a64a-97ba79107697",
@@ -806,7 +836,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "beca6581-5609-4be3-a2c6-480892e71507",
@@ -832,7 +863,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ba2bc7b1-d3c6-4030-86fd-7db5e0ac7394",
@@ -858,7 +890,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1060fdbc-4924-4185-bd69-7534e4a6c753",
@@ -884,7 +917,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d0fe5c79-acca-484d-b673-11a61f9fe52f",
@@ -910,7 +944,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d9d86ff8-10cf-4b59-982b-ec38677da431",
@@ -936,7 +971,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "cc6189ac-d87b-4079-899c-0f1478443732",
@@ -962,7 +998,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6b046d16-ea7f-4d18-8863-8a9a336e035b",
@@ -988,7 +1025,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1c8ba48a-aeaf-4aa9-8a55-b01c912c8c14",
@@ -1014,7 +1052,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6b21648e-285e-46cd-8a72-6dd78c8553dc",
@@ -1040,7 +1079,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "49445347-cc92-4c40-b27d-43d607847cee",
@@ -1066,7 +1106,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "77e013fa-2a4e-4b71-9daa-0a586cca681e",
@@ -1092,7 +1133,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "73a96f4b-53e7-484a-923c-d7f0e3a2dfaf",
@@ -1118,7 +1160,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "29f0ddd6-c779-4a2a-9ef4-75c046fa4e3d",
@@ -1144,7 +1187,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "a64f47f7-229d-40a6-add2-5c52cc09733d",
@@ -1170,7 +1214,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c73de680-65ee-40c2-9eeb-9b2886ccc10a",
@@ -1196,7 +1241,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "521b310a-65a3-47de-b64a-6988418788ab",
@@ -1222,7 +1268,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b32aa03b-9175-4360-9907-dc10d2d0f46c",
@@ -1248,7 +1295,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "e1969fd4-7cfa-4544-b7cc-c4927ae52583",
@@ -1274,7 +1322,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f810091c-073a-4167-ad09-0e0752b48ff1",
@@ -1300,7 +1349,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7cb3b05e-50a3-4349-b240-8c4d2aac7192",
@@ -1326,7 +1376,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2b789437-7d74-44eb-8a24-9afb8e6f6ab0",
@@ -1352,7 +1403,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7e3811e1-c572-475e-9867-55d691e64e02",
@@ -1378,7 +1430,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ec25d170-4996-44b0-97e3-37c566395a2b",
@@ -1404,7 +1457,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6cce0989-e30d-4d35-89c8-79336f3e9997",
@@ -1430,7 +1484,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ba5503b6-0f0c-4e85-9e0d-889584ec7680",
@@ -1456,7 +1511,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6ddc746c-bd55-4554-b31c-7479d863c9b6",
@@ -1482,7 +1538,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c803f99c-b47a-4385-8b2b-d9a3977da254",
@@ -1508,7 +1565,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "cbbd96ab-bdb3-4300-a197-44420afd001f",
@@ -1534,7 +1592,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7f4868bc-5d26-45e5-946b-58cb0ba93836",
@@ -1560,7 +1619,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "cccbee0f-d3a9-43f1-83f9-fe4f676bbc34",
@@ -1586,7 +1646,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "29de417d-f053-4cbc-a6e6-8fe5d80380d8",
@@ -1612,7 +1673,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2f2767d3-224e-42fc-9f2e-beb99d68a23c",
@@ -1638,7 +1700,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "43d82088-fee0-4b6f-9373-e0aa6efc6484",
@@ -1664,7 +1727,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9f9cb174-8e21-42b0-a369-4f59ba2fe66a",
@@ -1690,7 +1754,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1b35b49f-6d50-4eb9-8c85-36c7bc36ec9e",
@@ -1716,7 +1781,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9ceb68b9-6e85-4211-93c6-687eb484292b",
@@ -1742,7 +1808,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1805482c-5112-48c7-b613-1ceab052d9f5",
@@ -1768,7 +1835,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7a6a1bb2-3237-4372-866d-4ade2906006f",
@@ -1794,7 +1862,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "a84a61dc-9dc8-4087-92b0-d4a3df06834b",
@@ -1820,7 +1889,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b5a7c58e-77f9-4af5-a618-f3a0e2eb8d61",
@@ -1846,7 +1916,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f6d5012b-b670-4308-85b7-5693fca27e8a",
@@ -1872,7 +1943,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "73bd4143-a7a5-4b4b-86a1-288e798044b9",
@@ -1898,7 +1970,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "fa3eb468-8d36-460a-9d5e-b6af47fbdf52",
@@ -1924,7 +1997,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "54d23748-e34b-4b5b-bb5c-f2522577ba7e",
@@ -1950,7 +2024,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1af73f2a-22a9-4b84-8557-b2d3b54cf928",
@@ -1976,7 +2051,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "23a2684d-18b7-4c0a-8152-f20d8d92c0ab",
@@ -2002,7 +2078,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "5c5dedad-1a7d-45e8-ad85-dd68ac7ed91c",
@@ -2028,7 +2105,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:personalization",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "53355b9c-4500-413f-9269-e6275ed6abed",
@@ -2054,7 +2132,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:personalization",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "0923b548-3ec2-47b2-aefd-9e1447db5753",
@@ -2080,7 +2159,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "451819d9-41ac-43be-abe3-20db2539c2bd",
@@ -2106,7 +2186,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "77987e0d-88c7-4942-baf6-9c682ca6c1dc",
@@ -2132,7 +2213,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "917564cb-0b24-4a25-9668-1cb21a06caad",
@@ -2158,7 +2240,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b6a451db-7461-4d80-83cd-c971501e9f33",
@@ -2184,7 +2267,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "0655486b-a40c-435b-8a03-ba4606e9828e",
@@ -2210,7 +2294,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "0cab0797-ddc8-409f-a91b-99057956aab0",
@@ -2236,7 +2321,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "fb92c15f-ff8d-47d9-9e57-24fd0880a570",
@@ -2262,7 +2348,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c2ab755a-914f-4aae-ad4b-a8d3b53d2982",
@@ -2288,7 +2375,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1a299180-727b-4fe0-bf08-a24e73eb6a06",
@@ -2314,7 +2402,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "a7d47b8d-7c32-46dd-8cb6-bf5ea8032cfa",
@@ -2340,7 +2429,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "094cc36e-3d0e-4b18-8133-50c065bc3562",
@@ -2366,7 +2456,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "4012151f-87ba-4357-b26f-e24e3d7d860f",
@@ -2392,7 +2483,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "27c7b308-9974-4cad-8d27-f4213de5344a",
@@ -2418,7 +2510,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "35c4d2a3-1f2e-405e-be27-e992cd40b1b2",
@@ -2444,7 +2537,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "303dc1d9-d22a-4f18-9b35-a43be44958c6",
@@ -2470,7 +2564,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:personalization",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "599f8b56-5d27-4d10-b9e6-b98c4919b4c9",
@@ -2496,7 +2591,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:personalization",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "af6575f4-6244-4992-abcd-c588d3d48070",
@@ -2522,7 +2618,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "950bd4e9-2492-453b-83e7-08476499dc86",
@@ -2548,7 +2645,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "37a644e6-c333-44c6-99ec-e2de320da778",
@@ -2574,7 +2672,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9512c1ce-859e-4468-b3c9-d0ae465f63ea",
@@ -2600,7 +2699,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "50bbd834-1f2b-42f4-96d0-955b7ba5c56c",
@@ -2626,7 +2726,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "0e9442bd-42e7-4186-a31f-2ce84f9d6173",
@@ -2652,7 +2753,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b893a722-37b0-49e9-badb-52c5c8a0d855",
@@ -2678,7 +2780,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "a88a575b-c9b8-466c-8c13-150ccac1024c",
@@ -2704,7 +2807,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "24100d2b-7ee4-401b-9caa-f6ca1eb0b5d3",
@@ -2730,7 +2834,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c45c3296-71c9-4400-86bd-089fbfac832c",
@@ -2756,7 +2861,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "095a37ab-8ab8-40c9-a50c-6d165e540fb1",
@@ -2782,7 +2888,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "4e9e7d7a-9cd4-4ecc-b575-8ce75b84153c",
@@ -2808,7 +2915,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "caca5be3-1285-4f4b-9d58-7e6d133cd7fe",
@@ -2834,7 +2942,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c308cafd-a4bc-43bc-84f4-791c760a4776",
@@ -2860,7 +2969,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "0a6e65f0-f78b-44be-b075-0cb86133e1e2",
@@ -2886,7 +2996,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "21b4f05e-ac9f-487c-9a79-9ab7ec5d404f",
@@ -2912,7 +3023,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b4f65e89-a4f9-4f73-9793-45f64f08f50e",
@@ -2938,7 +3050,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "e23e1f77-8144-44e0-84b9-c5ddd59d0344",
@@ -2964,7 +3077,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "12e9444b-b9f5-40c4-a7c4-b7919f7ad895",
@@ -2990,7 +3104,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7590de18-969d-480f-8c00-8da71eadc776",
@@ -3016,7 +3131,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "95e96742-41e6-4ad5-b99d-f91acbab9cb3",
@@ -3042,7 +3158,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b6f17b59-7106-40be-91d0-2dd157f74997",
@@ -3068,7 +3185,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f4d5fb83-c30f-48e9-a96f-022ef365a537",
@@ -3094,7 +3212,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d4581bf6-82b6-48b9-b81e-6ebe943376bb",
@@ -3120,7 +3239,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f7c2f0a2-42eb-4fda-abfb-69dc161143a1",
@@ -3146,7 +3266,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:personalization",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "02fc9515-3dac-40fc-b14f-ae6341319e96",
@@ -3172,7 +3293,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "69fc2387-4090-412b-9b4e-c2366e8922c7",
@@ -3198,7 +3320,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "165e55e1-b3dd-472e-9947-491b838e781a",
@@ -3224,7 +3347,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "237d2c54-1f39-49f0-9bec-4147108693ff",
@@ -3250,7 +3374,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "8b186c2d-193a-427b-a11c-2f5c077c7f40",
@@ -3276,7 +3401,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1653da09-e1d9-4765-9d34-74217ef96abb",
@@ -3302,7 +3428,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "4d0335c2-add0-4acc-9388-953f010e0182",
@@ -3328,7 +3455,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c84d4c51-a648-4a58-a69a-a06ed57850a3",
@@ -3354,7 +3482,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "a343c552-3123-4b6f-b195-1428fc234462",
@@ -3380,7 +3509,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "fe772b1c-2895-4d07-8587-066529bb085a",
@@ -3406,7 +3536,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9856b8fa-714f-4be4-8595-0e394f20037b",
@@ -3432,7 +3563,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "532739bb-ed65-4607-ae64-62a5e38eab8f",
@@ -3458,7 +3590,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6472f34e-6caa-4c37-9fad-b2d81bfd3617",
@@ -3484,7 +3617,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "421b79e9-110b-4f76-a8c1-472d37d654a8",
@@ -3510,7 +3644,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "0d7485e5-98f6-4855-81fa-f728ed50e37e",
@@ -3536,7 +3671,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "8f8a1e10-1484-4bc2-af36-54a76e5ed838",
@@ -3562,7 +3698,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6c0a4d28-81a2-4272-9ac5-f8e900983899",
@@ -3588,7 +3725,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6e949f49-0f0a-4a4a-aa7f-4ea197966e61",
@@ -3614,7 +3752,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2fe6ad88-2323-40bc-8d72-c2076ef7affa",
@@ -3640,7 +3779,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "31885bfb-ad46-47f1-9aad-00ef7c66af0e",
@@ -3666,7 +3806,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9721d1e3-6627-4275-a023-216958b1dcd7",
@@ -3692,7 +3833,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ccb57c85-fd1d-490f-8995-928d253c3978",
@@ -3718,7 +3860,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d7b7e0c5-a957-4c1d-b8d2-69dec0c85e51",
@@ -3744,7 +3887,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "11fb2776-c84e-4365-a4be-5ab1f5c07422",
@@ -3770,7 +3914,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "df964dc8-bea0-45ff-a3c1-5cf114ef8df0",
@@ -3796,7 +3941,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ad10d160-42a1-43e4-9192-f70562b6188e",
@@ -3822,7 +3968,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "0d39f08f-78c6-4eec-b446-81e0748180ef",
@@ -3848,7 +3995,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d34a744f-8afb-4615-ae1c-b257d713be5e",
@@ -3874,7 +4022,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d1e16199-bff8-4ba8-b0cf-53581de90ff4",
@@ -3900,7 +4049,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "gateway: score=0.507 risco=0.050",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "84eaf74e-fa82-4ef5-9738-ea52b5f4aa58",
@@ -3926,7 +4076,8 @@
       "created_reason": "procedural_learning",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f44e214f-8842-40fb-8e3f-efe03b5ca054",
@@ -3952,7 +4103,8 @@
       "created_reason": "procedural_learning",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9b6c1877-a401-434f-a5eb-2ba84147e389",
@@ -3978,7 +4130,8 @@
       "created_reason": "procedural_learning",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "0f3a3126-4022-4500-aa41-80734ac0c206",
@@ -4004,7 +4157,8 @@
       "created_reason": "procedural_learning",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f108814b-a41e-42cc-81fb-85a88b373398",
@@ -4030,7 +4184,8 @@
       "created_reason": "procedural_learning",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "26fd8b20-20c0-4809-bd91-1ce5d66ee3d4",
@@ -4056,7 +4211,8 @@
       "created_reason": "procedural_learning",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "efa09d27-d959-41f7-8d56-1838491c9d0b",
@@ -4082,7 +4238,8 @@
       "created_reason": "preference_learning",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "comp-sum-59ccd7ced2",
@@ -4108,7 +4265,8 @@
       "created_reason": "ciclo automatico de compressao",
       "promotion_reason": "resumo de 80 memorias comprimidas",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "120c372f-c406-42a8-8690-5e8e899ce5f3",
@@ -4134,7 +4292,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "75fd6117-741d-4c15-aafd-ddd489fb1243",
@@ -4160,7 +4319,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "33c60e01-7ffe-4374-9c75-441b2005d635",
@@ -4186,7 +4346,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "e3dfea76-b988-4de3-b60e-59b8763518be",
@@ -4212,7 +4373,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": "context_injection:common_response",
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "4c8f4fa8-3ce9-4b6e-9b91-a7b5ce325b95",
@@ -4238,7 +4400,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "df02f6b8-6ca5-4283-9c29-55551a15e101",
@@ -4264,7 +4427,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "e1809628-bc49-4697-8aa1-801b3c1773e4",
@@ -4290,7 +4454,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "fe624cc6-58ca-4fb4-94cf-de1e266d98fc",
@@ -4316,7 +4481,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2ceeeea0-0bf6-481f-b732-d9eb53ddf362",
@@ -4342,7 +4508,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "466687a9-6508-4bf8-8354-7fdefc1d40fe",
@@ -4368,7 +4535,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "cdb8660d-e1e3-4567-b2ea-29d3ceb9bf5d",
@@ -4394,7 +4562,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b177aa65-55f0-4f08-9296-9648162ac895",
@@ -4420,7 +4589,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6aac45c3-6a16-4ab1-9c75-be69bd945db2",
@@ -4446,7 +4616,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6e0012cf-a6dc-406e-bc46-b5ba90d1bf93",
@@ -4472,7 +4643,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1c681633-2e36-468d-8e53-c7af0c25160a",
@@ -4498,7 +4670,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7902c9a0-5ba5-4a4e-84c7-ef51a8161302",
@@ -4524,7 +4697,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "311c2343-f03d-4867-9c72-b79ec474cefd",
@@ -4550,7 +4724,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "060792ce-98da-4598-bc0b-f730d5d4cbb3",
@@ -4576,7 +4751,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "5c5530a1-f46a-46f4-932f-ae4c1c43660c",
@@ -4602,7 +4778,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7e720e36-6a7b-4882-b2fb-f22b9c989aab",
@@ -4628,7 +4805,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "fca701f3-eb32-40be-89a6-d0f8d18d04ed",
@@ -4654,7 +4832,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "41457e62-991d-4fcf-a0a9-00c65356b53a",
@@ -4680,7 +4859,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "db2f7a57-f495-4e9f-8d77-4dda5d77d529",
@@ -4706,7 +4886,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "e4fd58eb-f541-4251-9f26-434172b99666",
@@ -4732,7 +4913,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c3dc1054-be33-44c2-bc93-f1f4ca23ab14",
@@ -4758,7 +4940,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "441faa1f-1bb6-465a-822e-d3008a3677ab",
@@ -4784,7 +4967,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "56c99e23-b6d4-4959-9a38-4fc6df811877",
@@ -4810,7 +4994,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "45b5754a-835d-4c4c-b660-aa20f6e9bc97",
@@ -4836,7 +5021,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f274d4d0-5b83-4541-8e22-8c321e97d010",
@@ -4862,7 +5048,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "08fe3dee-f8a5-4d11-9962-d428aa79bf00",
@@ -4888,7 +5075,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9f1613d7-ea05-4375-a9cd-b620c50e1c87",
@@ -4914,7 +5102,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "da008222-0d3d-4b14-9b66-7ce5bc908126",
@@ -4940,7 +5129,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "33acc552-c5c1-4a4c-8c5c-6486bd213406",
@@ -4966,7 +5156,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "34bce2a4-0ca9-499a-a099-82bfa4b0a8ca",
@@ -4992,7 +5183,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "afb83116-1ea3-4e66-ae61-08783638edd9",
@@ -5018,7 +5210,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "acf1e9f2-4c6a-4d54-b74c-e8c9888751a5",
@@ -5044,7 +5237,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c2c07f89-e978-4377-a3bb-6c0c16f87877",
@@ -5070,7 +5264,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "8161bbc8-a997-4b7c-8e36-191351336b55",
@@ -5096,7 +5291,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "e003bc10-e898-4292-b655-7c38b4954955",
@@ -5122,7 +5318,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2abaaa8d-df06-4547-b3ca-385ba9121f52",
@@ -5148,7 +5345,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "18c14687-494b-402e-ba91-090b5968f1f5",
@@ -5174,7 +5372,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "78c9d5fc-d257-45cc-826e-f4b0c6382856",
@@ -5200,7 +5399,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f1084728-2c8f-4207-8ef3-a7e0fbe93eb3",
@@ -5226,7 +5426,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f5c62773-ec87-42d3-a07b-46213688c600",
@@ -5252,7 +5453,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "bb0a74fb-9b4f-48ea-93a6-242a1b6a3814",
@@ -5278,7 +5480,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "74f3cae0-0fec-41b4-9e28-9f09561309ab",
@@ -5304,7 +5507,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c9855b7f-278d-419e-9e8c-e30b9fa0524c",
@@ -5330,7 +5534,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ebaf8319-bb05-4978-aa1a-c0bb11c6f446",
@@ -5356,7 +5561,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "4d82f5c3-9bde-4f85-99a4-e3f9e3687c32",
@@ -5382,7 +5588,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "35c52e85-9f5b-4e6d-bd26-0fa8303b2697",
@@ -5408,7 +5615,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d95e6eec-adb5-4520-9998-aa4be9445b08",
@@ -5434,7 +5642,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2acb0ce4-54b0-4a70-bbb0-47cb50d33222",
@@ -5460,7 +5669,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6a6e1ddc-e2ad-4ab1-9552-623a26c05a1a",
@@ -5486,7 +5696,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "33e65a02-39cc-4ed2-a387-b67ed6384488",
@@ -5512,7 +5723,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "4efc447a-4848-4b64-85af-2f1a62c62967",
@@ -5538,7 +5750,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "169f2311-bb40-4d93-bb71-bcc19d7f7c99",
@@ -5564,7 +5777,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c20a67d6-940a-4259-8717-9323c07b039c",
@@ -5590,7 +5804,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7c48fe40-d078-435d-a856-31b1076c6398",
@@ -5616,7 +5831,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2cc393c9-632f-4816-844b-dc09d7b7036e",
@@ -5642,7 +5858,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "39f5a4e6-f5bb-447e-aed8-4a75cfd8a334",
@@ -5668,7 +5885,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "5d6cad12-37e2-4620-b046-f5792ed152ca",
@@ -5694,7 +5912,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2e0fb360-17ec-4c02-a533-8481fd4dba6c",
@@ -5720,7 +5939,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "26cf7241-c81c-4d89-a4ac-3526110d2aca",
@@ -5746,7 +5966,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d4a89e3a-a10c-4e0b-a7c6-e27183bae901",
@@ -5772,7 +5993,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "83d985fe-1045-47c3-bf3a-ff9c837d5a4d",
@@ -5798,7 +6020,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "4f7b7980-ec43-4831-8626-934cb19ee996",
@@ -5824,7 +6047,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "3ef02cc2-ff34-4854-b591-1e8be14d00b6",
@@ -5850,7 +6074,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "73bfe49d-ef7d-4725-9edd-76222f43d2ae",
@@ -5876,7 +6101,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b2e625d5-4649-4f7c-ac2e-4b03f659115c",
@@ -5902,7 +6128,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "a1cc0b8a-f7de-402b-9f70-3d7b2b56846f",
@@ -5928,7 +6155,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "3f0ec565-a8be-40b2-8da0-a63a7b87a4f7",
@@ -5954,7 +6182,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f775e3f4-aeb5-4716-b2ff-a50157e80a33",
@@ -5980,7 +6209,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "974f435c-e123-4cd1-a787-67357dce1af0",
@@ -6006,7 +6236,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "013dd08c-37d7-48c6-860e-6e046c1f7ab0",
@@ -6032,7 +6263,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d50915b5-ece4-4e49-a250-50862ac31099",
@@ -6058,7 +6290,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "93a64be1-3d2a-41f9-9238-04202128dc18",
@@ -6084,7 +6317,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1ef596ab-53ea-425b-89c5-56ff913f4f7c",
@@ -6110,7 +6344,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7afac692-9430-426d-8c39-8d78cac32454",
@@ -6136,7 +6371,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "15e40137-54cc-4e8f-9081-d5d021375f31",
@@ -6162,7 +6398,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "e0c47280-d190-4f11-a3ac-cbce5a8e62e9",
@@ -6188,7 +6425,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b95cbdcf-463f-4124-b881-0379d718ea34",
@@ -6214,7 +6452,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "669bdd41-8bab-4b6c-bb02-c9869a7250d6",
@@ -6240,7 +6479,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "1bf2e6d4-796a-4b15-9ce9-914482e9304c",
@@ -6266,7 +6506,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "d790d0b9-0e8c-485f-9a21-7d90bf6f24f6",
@@ -6292,7 +6533,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b54a76b0-e61e-475f-84e1-f639e2f0d396",
@@ -6318,7 +6560,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "6253c8d8-0ff9-4561-910e-2262c94da10b",
@@ -6344,7 +6587,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "eb3e1537-79db-4a42-abd2-46afe1836f08",
@@ -6370,7 +6614,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "98c72a3f-044b-4cb1-96a3-c4ab662015e2",
@@ -6396,7 +6641,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c3616b49-aa02-4912-b58c-73c8024319d2",
@@ -6422,7 +6668,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "8a03cdcb-da27-4ab5-9eb3-e94d8256f960",
@@ -6448,7 +6695,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7a2d4371-a620-4514-86be-80c94c7f1ee2",
@@ -6474,7 +6722,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "409c8a83-5bd6-4466-bd92-03cbd0c067e1",
@@ -6500,7 +6749,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "780e2438-ae21-46e9-9714-c6a45277c28d",
@@ -6526,7 +6776,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "417a5068-e32a-4fab-9665-944d058a0ae8",
@@ -6552,7 +6803,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "99a64b86-377c-4951-a19c-404f65bf14f2",
@@ -6578,7 +6830,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b8a486e5-3e7e-454e-8cde-f5f06f8c2bde",
@@ -6604,7 +6857,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9611bc2c-0cf3-4bb0-9a0e-fcb9a6893212",
@@ -6630,7 +6884,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "f794c18a-b833-4f08-9e8b-8816e8fe64b7",
@@ -6656,7 +6911,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "a037e40d-5316-4bbf-99a2-6af597308636",
@@ -6682,7 +6938,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "30a096f2-9611-448e-b205-b5037b764af7",
@@ -6708,7 +6965,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "e0a4110e-7da2-4d4a-a10f-d8b6f18cf583",
@@ -6734,7 +6992,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "c303c6e2-27e5-4ff4-a49f-9f347cbb4c8c",
@@ -6760,7 +7019,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7d3b732c-735a-4a72-8f4a-3cb3a9a0e744",
@@ -6786,7 +7046,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "a7be40b6-5b07-4dfd-8765-5080fd70199a",
@@ -6812,7 +7073,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "72f7d54d-81c3-4b6e-8e4d-3ce03e14b57c",
@@ -6838,7 +7100,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "2df7ff03-6cb4-4fc0-a299-e84c391e0bcc",
@@ -6864,7 +7127,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "efb28eb9-cbd9-42a8-b902-1574303096c1",
@@ -6890,7 +7154,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "146ddff0-0ab0-4bd6-8997-f82d069f4412",
@@ -6916,7 +7181,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b9191f08-90d7-4fcf-97a1-8d7f4378566b",
@@ -6942,7 +7208,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "66b7455c-bdc1-4f85-a279-cd05d8ff87b4",
@@ -6968,7 +7235,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "eccd33e7-2f11-4aa1-ab62-a52a070b8fe6",
@@ -6994,7 +7262,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "823b1750-8671-4afb-8db1-07f825d21be5",
@@ -7020,7 +7289,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "85efd1eb-c287-4baa-9f34-b0a3f7cd3c82",
@@ -7046,7 +7316,8 @@
       "created_reason": "interaction_ruim",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "9f85c95c-48cb-4b88-b7e3-bd5c4e310042",
@@ -7072,7 +7343,8 @@
       "created_reason": "interaction_ruim",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "4fd6ff0a-5d74-484c-853d-9c53cca53030",
@@ -7098,7 +7370,8 @@
       "created_reason": "interaction_ruim",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "b0c4748a-da95-40f6-ac0a-bfc0c049dedd",
@@ -7124,7 +7397,8 @@
       "created_reason": "interaction_ruim",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "feb5c825-3a58-4379-b1b2-a8410dae4788",
@@ -7150,7 +7424,8 @@
       "created_reason": "interaction_ruim",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "36d7fd30-3167-4041-a43e-ffba368fb7f9",
@@ -7176,7 +7451,8 @@
       "created_reason": "interaction_ruim",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "7175c773-edda-415f-8a3f-b55ab9b08717",
@@ -7202,7 +7478,8 @@
       "created_reason": "interaction_ruim",
       "promotion_reason": null,
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "740432b4-92cf-41b4-b89d-5e99d34b4924",
@@ -7228,7 +7505,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "04f1e922-c9b3-4b76-8806-32539b01fc27",
@@ -7254,7 +7532,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "0575a615-1bb1-4a4d-ab45-204d50685498",
@@ -7280,7 +7559,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "5fad707c-266f-4aa4-84da-7f2f3cc94995",
@@ -7306,7 +7586,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "65bed465-b2b2-4d0b-b00e-41260f26a7e8",
@@ -7332,7 +7613,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "721bbfc9-49b4-427a-80b0-5665a1d28a67",
@@ -7358,7 +7640,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "ebefdcb5-293f-4c38-b62e-e2f904840dd5",
@@ -7384,7 +7667,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "450ed863-6dad-45ff-9d1d-c3986270ecba",
@@ -7410,7 +7694,8 @@
       "created_reason": "interaction_bom",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "e0ac8305-57d0-4409-8884-d3256d9db26a",
@@ -7436,7 +7721,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "01b440a3-fb69-4569-abda-3cf1dd693434",
@@ -7462,7 +7748,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "db500067-2277-49c3-a5b3-26826db2abaa",
@@ -7488,7 +7775,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     },
     {
       "id": "df2aa103-af83-4b51-8057-b6ac51e54238",
@@ -7514,7 +7802,8 @@
       "created_reason": "synaptic_reinforcement",
       "promotion_reason": "contradicted: correção explícita do usuário",
       "last_retrieval_reason": null,
-      "tension_with": null
+      "tension_with": null,
+      "epistemic_status": "unverified"
     }
   ]
 }
